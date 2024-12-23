@@ -1,0 +1,1 @@
+This repository demonstrates a common error in MATLAB conditional logic.  The function `myFunction` is incomplete because it fails to explicitly handle the edge cases where the input `x` is exactly 5 or 10.  The solution provides a revised function that addresses this omission.
